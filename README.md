@@ -128,6 +128,21 @@ seaborn — statistical plots
 
 scikit‑learn — machine learning
 
+## 📂 Project Structure
+
+High-Value-Customer-Classification-Model/
+│
+├── Data Science Project.ipynb      
+├── customer_shopping.csv          
+├── README.md                       
+│
+└── images/                       
+    ├── gender_spending.png
+    ├── seasonal_sales.png
+    ├── discount_impact.png
+    ├── correlation_heatmap.png
+    └── model_comparison.png
+
 ## 💡 Business Applications
 
 Targeted marketing campaigns
