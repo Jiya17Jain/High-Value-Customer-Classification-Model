@@ -130,18 +130,22 @@ scikit‑learn — machine learning
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 High-Value-Customer-Classification-Model/
 │
-├── Data Science Project.ipynb      
-├── customer_shopping.csv          
-├── README.md                       
+├── Data Science Project.ipynb
+├── customer_shopping.csv
+├── README.md
 │
-└── images/                       
+└── images/
     ├── gender_spending.png
     ├── seasonal_sales.png
     ├── discount_impact.png
     ├── correlation_heatmap.png
     └── model_comparison.png
+```
 
 ## 💡 Business Applications
 
@@ -159,4 +163,5 @@ Churn prevention strategies
 
 Jiya Jain
 B.Tech — AI & ML
+Aspiring Data Analytics and Data Scientist
 
